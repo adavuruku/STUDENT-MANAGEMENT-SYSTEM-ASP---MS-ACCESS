@@ -1,0 +1,5 @@
+<div class="row clearfix label-primary hidden-print" style="margin-top:0px;">
+				<footer style="margin-top:15px">
+					<h4 style="text-align:center;color:white;">Copyright &copy; 2017 - All Rights Reserved - Adavuruku Softworld - 08164377187, 08181153074 | aabdulraheemsherif@yahoo.com, abdulraheemsherif.adavuruku@gmail.com.</h4>
+				</footer>
+			</div>
